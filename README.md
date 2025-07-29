@@ -1,51 +1,89 @@
---- 
+<img width="100%" height="420" alt="GitHub Banner" src="https://github.com/user-attachments/assets/433e2068-72ce-49cf-b685-fffdeb015a5d" />
+<h1 align="center">Hey there, I'm Aditya 👋</h1>
 
-# Hey there, I'm Aditya Pai👋
+<p align="center">
 
-I’m an aspiring full-stack developer who’s always up for a new coding challenge. Whether it’s front-end or back-end, I’m all about building cool, interactive web apps that make life a little easier (and fun!). Currently diving deep into React, Node.js, TypeScript, and everything in between! Let’s code something awesome together! 🚀✨
+  <strong>Software Engineer | Full-Stack Developer | UI Enthusiast</strong><br/>
+  Currently building <a href="https://github.com/adityapai05/mitti-homestay-app">MITTI - Rural Homestay Booking Platform</a>
+</p>
 
-## 🛠️ My Tech Stack
+---
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## 👨‍💻 About Me
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+- 💻 Final year B.Sc. IT student @ UPG College
+- 🛠️ Passionate about building meaningful digital products that solve real-world problems
+- 🎯 Focused on full-stack web development using modern technologies
+- 📚 Always learning, always building
 
-### Other Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+---
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapai05&show_icons=true&theme=radical)
+### 🚀 Frontend
 
-## 🚀 My Projects  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-### **UI-Topia: Component Library**  (Ongoing)
-Your UI’s new best friend! A React & TypeScript library packed with reusable, flexible, and customizable components to build stunning interfaces effortlessly. Comes with smooth animations and clean code. 🚀✨  
+### 🧠 Backend
 
-### **Employee Management System**  
-Streamline your workplace! Admins assign tasks; employees track and update them in their dashboards. Built with React, Tailwind, and LocalStorage for a sleek, responsive experience. Perfect for productivity pros. 💼📊  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### **IMDb Clone**  
-Movies, shows, and watchlists—oh my! A React-powered movie browser featuring detailed pages, a carousel of trending movies, and a genre-based watchlist. Fully integrated with TMDB API to keep your weekends sorted. 🎥🍿  
+### 🗄️ Database
 
-### **Password Generator Extension**  
-Tired of "12345"? This Chrome extension creates secure, random passwords in seconds. Customize length, complexity, and copy to clipboard instantly. Never worry about weak passwords again! 🔐✨  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-## 📫 Connect with Me
+### 🧩 Tools & Platforms
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapai05)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adityapai05)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aditya-pai/)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge\&logo=trello\&logoColor=white)
 
+---
+
+## 📌 Featured Projects
+
+### 🌾 [MITTI — Rural Homestay Booking Platform](https://github.com/adityapai05/mitti-homestay-app)  
+A full-stack web app to discover and book rural homestays across India. Built with **Next.js**, **Prisma**, **PostgreSQL**, and **Firebase Auth** with multi-role login for users, hosts, and admins.
+
+
+### 🎨 [UI-Topia — Reusable UI Components Library](https://github.com/adityapai05/ui-topia)  
+A growing library of beautiful, responsive, and production-ready components using **React** and **Tailwind CSS**. Perfect for rapid prototyping and consistent UI/UX.
+
+### 🍲 [Sangeeta’s Food Paradise](https://github.com/adityapai05/sfp-website  )  
+A nostalgic food blog featuring traditional Indian recipes. Designed with a warm visual palette and responsive layout using semantic HTML and Tailwind.
+
+### 🔐 [Password Generator Extension](https://github.com/adityapai05/password-generator-extension)  
+A clean and functional Chrome Extension that generates secure passwords on the fly. Fully customizable, minimalist UI, and zero bloat.
+
+---
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapai05&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapai05&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adityapai05)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:adityapai.main@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/aditya-pai)
+
+</p>
+
+---
+
+<p align="center">
+  Built with 💻 and ☕ by Aditya Pai
+</p>
