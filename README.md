@@ -1,89 +1,121 @@
-<img width="100%" height="420" alt="GitHub Banner" src="https://github.com/user-attachments/assets/433e2068-72ce-49cf-b685-fffdeb015a5d" />
-<h1 align="center">Hey there, I'm Aditya 👋</h1>
+<div align="center">
 
-<p align="center">
+```
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██████╗  █████╗ ██╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗██║
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██████╔╝███████║██║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██╔═══╝ ██╔══██║██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██║     ██║  ██║██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝
+```
 
-  <strong>Software Engineer | Full-Stack Developer | UI Enthusiast</strong><br/>
-  Currently building <a href="https://github.com/adityapai05/mitti-homestay-app">MITTI - Rural Homestay Booking Platform</a>
-</p>
+### full-stack dev. still learning. always building.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapai05)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityapai.main@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aditya-pai)
+[![GSSoC](https://img.shields.io/badge/GSSoC%20'26-contributor-orange?style=flat-square)](https://gssoc.girlscript.org/profile/dd7a7cff-e59e-4bf3-979f-b393d61ac2ce)
 
-## 👨‍💻 About Me
-
-- 💻 Final year B.Sc. IT student @ UPG College
-- 🛠️ Passionate about building meaningful digital products that solve real-world problems
-- 🎯 Focused on full-stack web development using modern technologies
-- 📚 Always learning, always building
-
----
-
-## 🛠 Tech Stack
-
-### 🚀 Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-### 🧠 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄️ Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### 🧩 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge\&logo=trello\&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+```
+currently:
+  → backend principles & system design       (redis, microservices, nestjs)
+  → cloud infrastructure                     (aws, docker)
+  → distributed systems                      (learning the hard parts)
+  → open source                              (GSSoC '26 — active contributor)
+  → DSA & placement prep                     (getting serious about it)
+```
 
-### 🌾 [MITTI — Rural Homestay Booking Platform](https://github.com/adityapai05/mitti-homestay-app)  
-A full-stack web app to discover and book rural homestays across India. Built with **Next.js**, **Prisma**, **PostgreSQL**, and **Firebase Auth** with multi-role login for users, hosts, and admins.
-
-
-### 🎨 [UI-Topia — Reusable UI Components Library](https://github.com/adityapai05/ui-topia)  
-A growing library of beautiful, responsive, and production-ready components using **React** and **Tailwind CSS**. Perfect for rapid prototyping and consistent UI/UX.
-
-### 🍲 [Sangeeta’s Food Paradise](https://github.com/adityapai05/sfp-website  )  
-A nostalgic food blog featuring traditional Indian recipes. Designed with a warm visual palette and responsive layout using semantic HTML and Tailwind.
-
-### 🔐 [Password Generator Extension](https://github.com/adityapai05/password-generator-extension)  
-A clean and functional Chrome Extension that generates secure passwords on the fly. Fully customizable, minimalist UI, and zero bloat.
+MCA CET **99.96 percentile** · aiming for VJTI / SPIT
 
 ---
 
-## 📊 GitHub Stats
+## what i work with
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapai05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapai05&layout=compact&theme=radical)
+**frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+**data & infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## things i've shipped
 
-<p>
+**[MITTI](https://github.com/adityapai05/mitti-homestay-app)** — rural homestay booking platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adityapai05)
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:adityapai.main@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/aditya-pai)
+> Full-stack platform for discovering and booking rural homestays across India. Multi-role architecture covering guests, hosts, and admins — with booking flows, filtering, Razorpay payment integration, and Firebase Auth. Backend structured around Prisma ORM with PostgreSQL.
 
-</p>
+`Next.js` `Prisma` `PostgreSQL` `Firebase Auth` `Razorpay`
 
 ---
 
-<p align="center">
-  Built with 💻 and ☕ by Aditya Pai
-</p>
+**[HealthMate](https://github.com/adityapai05/healthmate)** — AI-powered medical diagnosis system
+
+> Symptom input → AI-assisted medical insights via Gemini. Includes diagnosis history, case sharing, and a chatbot-style interface. Cross-stack deliberately — React on the front, Spring Boot with JWT auth and email verification on the back.
+
+`React` `TypeScript` `Spring Boot` `MongoDB` `Gemini AI`
+
+---
+
+**[UI-Topia](https://github.com/adityapai05/ui-topia)** — component library
+
+> Reusable UI system built for composability and developer speed. Not another Tailwind wrapper — focused on patterns that don't make your app look like every other app.
+
+`React` `Tailwind CSS`
+
+---
+
+## open source
+
+Active contributor at **GSSoC '26** — all merged PRs rated `quality:exceptional` by maintainers.
+
+| PR | Repo | Level |
+|---|---|---|
+| fix: folder actions trigger visible in explorer sidebar | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | intermediate |
+| refactor: extract explorer dialog orchestration from playground-explorer | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | advanced |
+| refactor: replace inline SVGs with Lucide icons in playground components | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | beginner |
+| refactor: centralise preview design tokens | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | critical |
+
+---
+
+## github activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityapai05&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+*this field moves fast. i intend to keep up.*
+
+</div>
