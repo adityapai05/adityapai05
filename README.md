@@ -12,9 +12,9 @@
 ### full-stack dev. still learning. always building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapai05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://adityapai.me)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityapai.main@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aditya-pai)
-[![GSSoC](https://img.shields.io/badge/GSSoC%20'26-contributor-orange?style=flat-square)](https://gssoc.girlscript.org/profile/dd7a7cff-e59e-4bf3-979f-b393d61ac2ce)
 
 </div>
 
@@ -22,14 +22,13 @@
 
 ```
 currently:
-  → backend principles & system design       (redis, microservices, nestjs)
-  → cloud infrastructure                     (aws, docker)
-  → distributed systems                      (learning the hard parts)
-  → open source                              (GSSoC '26 — active contributor)
-  → DSA & placement prep                     (getting serious about it)
+  → freelance                (building a financial services platform — Next.js, Payload CMS, Supabase)
+  → backend systems          (microservices, redis, nestjs, docker)
+  → cloud infrastructure     (aws, distributed systems)
+  → open source              (active contributor — quality:exceptional rated PRs)
 ```
 
-MCA CET **99.96 percentile** · aiming for VJTI / SPIT
+MCA CET **99.96 percentile** · starting MCA in September
 
 ---
 
@@ -67,7 +66,15 @@ MCA CET **99.96 percentile** · aiming for VJTI / SPIT
 
 ## things i've shipped
 
-**[MITTI](https://github.com/adityapai05/mitti-homestay-app)** — rural homestay booking platform
+**[FAST Group Website](https://fastsolutions.in)** *(in progress)* — financial services platform
+
+> Combined platform for FAST Solutions and FastFinsure — two financial services entities under one roof. Lead generation engine, CMS-driven content, financial calculators, ERPCA CRM integration, and a full admin dashboard. First freelance engagement.
+
+`Next.js 15` `Payload CMS` `Supabase` `Vercel` `TypeScript`
+
+---
+
+**[MITTI](https://mittihomestays.vercel.app)** — rural homestay booking platform
 
 > Full-stack platform for discovering and booking rural homestays across India. Multi-role architecture covering guests, hosts, and admins — with booking flows, filtering, Razorpay payment integration, and Firebase Auth. Backend structured around Prisma ORM with PostgreSQL.
 
@@ -75,7 +82,7 @@ MCA CET **99.96 percentile** · aiming for VJTI / SPIT
 
 ---
 
-**[HealthMate](https://github.com/adityapai05/healthmate)** — AI-powered medical diagnosis system
+**[HealthMate](https://github.com/adityapai05/healthmate)** — AI medical diagnosis system
 
 > Symptom input → AI-assisted medical insights via Gemini. Includes diagnosis history, case sharing, and a chatbot-style interface. Cross-stack deliberately — React on the front, Spring Boot with JWT auth and email verification on the back.
 
@@ -83,17 +90,33 @@ MCA CET **99.96 percentile** · aiming for VJTI / SPIT
 
 ---
 
-**[UI-Topia](https://github.com/adityapai05/ui-topia)** — component library
+**[Relay](https://relay-chat-app.onrender.com)** — real-time chat application
 
-> Reusable UI system built for composability and developer speed. Not another Tailwind wrapper — focused on patterns that don't make your app look like every other app.
+> One-to-one messaging with instant delivery, online presence tracking, and persistent history. The interesting part is the socket architecture — bidirectional event handling, connection lifecycle management, and real-time sync across clients.
 
-`React` `Tailwind CSS`
+`Node.js` `Express` `Socket.IO` `MongoDB` `React` `Zustand`
+
+---
+
+**[UI-Topia](https://ui-topia.vercel.app)** — UI component library
+
+> Reusable UI system built for composability and developer speed. Copy-paste ownership model — no dependency lock-in. Not another Tailwind wrapper; focused on patterns that don't make your app look like every other app.
+
+`React` `TypeScript` `Tailwind CSS`
+
+---
+
+**[Sangeeta's Food Paradise](https://sangeetas-food-paradise.vercel.app)** — recipe blog platform
+
+> Content-driven recipe platform built for a food YouTube channel. Category-based browsing, structured recipe pages, and an admin-only CMS for managing content — no public registration required.
+
+`React` `Tailwind CSS` `Appwrite`
 
 ---
 
 ## open source
 
-Active contributor at **GSSoC '26** — all merged PRs rated `quality:exceptional` by maintainers.
+Active contributor — all merged PRs rated `quality:exceptional` by maintainers.
 
 | PR | Repo | Level |
 |---|---|---|
@@ -101,6 +124,9 @@ Active contributor at **GSSoC '26** — all merged PRs rated `quality:exceptiona
 | refactor: extract explorer dialog orchestration from playground-explorer | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | advanced |
 | refactor: replace inline SVGs with Lucide icons in playground components | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | beginner |
 | refactor: centralise preview design tokens | [piyushdotcomm/Editron](https://github.com/piyushdotcomm/Editron) | critical |
+| fix: deduplicate activity feed for combined account views | [DevTrack](https://github.com/AsyncFuncAI/devtrack) | advanced |
+| fix: keyboard shortcuts modal obscured by dashboard element | [DevTrack](https://github.com/AsyncFuncAI/devtrack) | intermediate |
+| fix: mobile notification drawer dismissal on touch devices | [DevTrack](https://github.com/AsyncFuncAI/devtrack) | intermediate |
 
 ---
 
